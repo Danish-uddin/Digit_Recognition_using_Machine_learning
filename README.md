@@ -16,17 +16,17 @@
  <br>⚈ Model gives 99.15% accuracy.
 <h2>For Deployment:</h2>Save model using tensorflowjs converters as json file and weight as .h5 file.Use Tensorflow.js to load model and predict in javascript file
 
-### Encryption
-<img src="readme-images/encrypt.png" width="600">
+### User interface
+<img src="readme-images/user_interface.png" width="600">
 
-### Encryption
-<img src="readme-images/encrypt.png" width="600">
+### sample 1 - Digit 4
+<img src="readme-images/samle1-digit44.png" width="600">
 
-### Encryption
-<img src="readme-images/encrypt.png" width="600">
+### sample 2 - Digit 4 (different handwriting but correct prediction)
+<img src="readme-images/sample1-digit4.png" width="600">
 
-### Encryption
-<img src="readme-images/encrypt.png" width="600">
+### sample 3 - Digit 1
+<img src="readme-images/sample2_digit1.png" width="600">
 
-### Encryption
-<img src="readme-images/encrypt.png" width="600">
+### sample 4 - Digit 1 (different handwriting but correct prediction)
+<img src="readme-images/sample2_digit11.png" width="600">
