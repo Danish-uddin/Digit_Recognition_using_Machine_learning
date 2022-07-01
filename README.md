@@ -1,7 +1,6 @@
 
 # Digit Recognition using Machine learning
- 
-<br>
+ <br>
 <h3>Structure of App</h3>
 <h2> keras - > Tensorflow.js ->(html + css + javascript)</h1>
   <h3>Hello World of Object Recognition!</h3>
