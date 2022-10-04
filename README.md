@@ -1,7 +1,7 @@
 
 # Digit Recognition using Machine learning
  <br>
-<h3>Live Demo: </h3> (https://danish-uddin.github.io/Digit_Recognition_using_Machine_learning/)
+<h3>Live Demo: (https://danish-uddin.github.io/Digit_Recognition_using_Machine_learning/) </h3>
 <h3>Structure of App</h3>
 <h2> keras - > Tensorflow.js ->(html + css + javascript)</h1>
   <h3>Hello World of Object Recognition!</h3>
