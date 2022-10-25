@@ -21,7 +21,7 @@
 <img src="readme-images/user_interface.png" width="600">
 
 ### sample 1 - Digit 4
-<img src="readme-images/samle1-digit44.png" width="600">
+<img src="readme-images/samle1-digit44.PNG" width="600">
 
 ### sample 2 - Digit 4 (different handwriting but correct prediction)
 <img src="readme-images/sample1-digit4.png" width="600">
